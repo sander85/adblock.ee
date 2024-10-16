@@ -1,6 +1,3 @@
----
-permalink: /list.php
----
 [Adblock Plus 2.0]
 ! Title: Estonian list for ad blockers
 ! Homepage: https://github.com/sander85/adblock.ee
