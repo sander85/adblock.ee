@@ -1,0 +1,3 @@
+---
+redirect: /list.txt
+---
